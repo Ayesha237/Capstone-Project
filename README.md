@@ -1,6 +1,6 @@
 # Capstone-Project
 
-In our Capstone Project, we worked with a real dataset from a longevity supplements company. Headquartered in Switzerland, with production and distribution facilites in the UK, this is a relatively new start-up, which has been growing at an exponential rate. It is a B2C company, which is operating completely online, shipping their supplememnts worldwide.
+In our Capstone Project, we worked with a real dataset from a longevity supplements company. Headquartered in Switzerland, with production and distribution facilites in the UK, this is a relatively new start-up, which has been growing at an exponential rate. It is a B2C company, which is operating completely online, shipping their supplements worldwide.
 
 The company's vision is to focus on creating supplements with high quality ingredients that act in synergy to slow aging at the cellular level, because, as they say, when your cells work better, your whole body works better!
 
